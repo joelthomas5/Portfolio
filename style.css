@@ -785,18 +785,18 @@ footer {
     }
 }
 .hero{
-    animation: fadeInUp 2s ease forwards;
+    animation: fadeInUp 1s ease forwards;
     animation-timeline: view();
 }
 .about-section {
-    animation: fadeInUp 2s ease forwards;
+    animation: fadeInUp 1s ease forwards;
     animation-timeline: view();
 }
 .projects-section {
-    animation: fadeInUp 2s ease forwards;
+    animation: fadeInUp 1s ease forwards;
     animation-timeline: view();
 }
 .contact-section {
-    animation: fadeInUp 2s ease forwards;
+    animation: fadeInUp 1s ease forwards;
     animation-timeline: view();
 }
